@@ -517,7 +517,7 @@
 
  .login-container {
      background: rgba(86, 47, 133, 0.9);
-     padding: 20%;
+     padding: 0%;
      border-radius: 15px;
      box-shadow: 0 8px 32px rgba(42, 255, 9, 0.2);
      width: 300px;
@@ -652,4 +652,5 @@
 
  #otpSection {
      display: none;
+
  }
